@@ -1,0 +1,6 @@
+.card {
+  border: 0.1rem solid grey;
+  margin: 1rem;
+  padding: 1rem;
+  text-align: left;
+}
